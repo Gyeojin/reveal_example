@@ -131,4 +131,7 @@ $(function(){
     $(this).addClass("active");
   });
 
+  // Venobox Lightbox(modal box) plugin Code->사진 클릭하면 확대되어 보이는 기능
+  $('.venobox').venobox();
+
 });
